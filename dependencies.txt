@@ -1,6 +1,9 @@
 # dependencies
 
 # core dependencies
+xorg-server
+xf86-input-libinput
+mesa-dri-gallium
 dbus
 eudev
 udiskie
@@ -16,6 +19,7 @@ polkit
 elogind 
 polkit-elogind
 xrandr
+foot
 
 # fonts
 terminus-font
