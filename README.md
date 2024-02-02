@@ -8,6 +8,7 @@ Get git via apk.
 
 git clone https://github/444anothereality444.com/AlpineQtileV1
 cd AlpineQtileV1
+doas chmod +x install.sh
 
 ##INSTALLING
 
