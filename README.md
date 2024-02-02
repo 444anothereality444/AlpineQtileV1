@@ -1,8 +1,10 @@
 # AlpineQtile
 install qtile on alpine linux
 
-Enable community/edge @ /etc/apk/repositories. 
+Enable /edge/* and /edge/testing @ /etc/apk/repositories. 
+Then run "apk update", "apk upgrade".
 Install edge kernel with "apk add linux-edge" and remove the older.
+Then run "apk update", "apk upgrade".
 Install xorg-server via "setup-xorg-base"
 Run "setup-devd"
 Then run "apk update", "apk upgrade".
