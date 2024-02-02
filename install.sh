@@ -8,7 +8,6 @@ done
 
 
 
-setup-devd udev
 
 #add user to groups
 adduser jess input
