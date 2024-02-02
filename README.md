@@ -2,6 +2,7 @@
 install qtile on alpine linux
 
 Install xorg-server via "setup-xorg-base"
+Run "setup-devd"
 Enable community/edge @ /etc/apk/repositories. 
 Then run "apk update", "apk upgrade".
 Get git via apk.
