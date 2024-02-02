@@ -1,0 +1,49 @@
+# dependencies
+
+# core dependencies
+xorg-server
+xf86-input-libinput
+dbus
+eudev
+udiskie
+qtile
+acpi
+pciutils
+libinput-libs
+libxcb
+libxkbcommon
+rofi
+mesa-dri-gallium
+shadow
+polkit
+elogind 
+polkit-elogind
+xrandr
+
+# fonts
+terminus-font
+font-awesome
+
+# utilities
+vim
+nodejs
+wget
+curl
+light
+dunst
+#playerctl
+flatpak
+setxkbmap
+
+# screenshot utilities
+scrot
+
+# browsers and browser dependencies
+qutebrowser
+
+# display manager
+lightdm
+lightdm-gtk-greeter
+
+# eduvpn
+py3-pip py3-dbus py3-gobject3
