@@ -1,8 +1,6 @@
 # dependencies
 
 # core dependencies
-xorg-server
-xf86-input-libinput
 dbus
 eudev
 udiskie
@@ -13,7 +11,6 @@ libinput-libs
 libxcb
 libxkbcommon
 rofi
-mesa-dri-gallium
 shadow
 polkit
 elogind 
