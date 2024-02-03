@@ -38,6 +38,10 @@ dunst
 flatpak
 setxkbmap
 
+#python
+pythons3 py3-pip py3-dbus py3-gobject3
+dmidecode py3-venv python3-dev py3-setuptools py3-psutil py3-distro py3-click
+
 # screenshot utilities
 scrot
 
