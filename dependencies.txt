@@ -20,6 +20,8 @@ elogind
 polkit-elogind
 xrandr
 foot
+xinit
+python3
 
 # fonts
 terminus-font
