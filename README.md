@@ -3,10 +3,9 @@ install qtile on alpine linux
 
 Enable /edge/* and /edge/testing @ /etc/apk/repositories. 
 Then run "apk update", "apk upgrade".
-Install edge kernel with "apk add linux-edge" and remove the older.
-Then run "apk update", "apk upgrade".
 Install xorg-server via "setup-xorg-base"
-Run "setup-devd"
+Install drivers, "apk search xf86-input*", "apk search xf86-video*"
+Install dbus, "apk add dbus", "dbus-uuidgen >/var/lib/dbus/machine-id", "rc-update add dbus"
 Then run "apk update", "apk upgrade".
 
 Get git via apk.
